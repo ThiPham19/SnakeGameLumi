@@ -1,0 +1,14 @@
+../Src/main.c:137:5:main	424	static
+../Src/main.c:166:13:AppInitCommon	16	static
+../Src/main.c:195:20:GetStateApp	4	static
+../Src/main.c:199:13:SetStateApp	16	static
+../Src/main.c:203:13:AppStateManager	16	static
+../Src/main.c:223:13:LoadConfiguration	16	static
+../Src/main.c:231:6:SetupPrg	16	static
+../Src/main.c:243:6:snake_init	24	static
+../Src/main.c:264:13:platform_init_randomizer	8	static
+../Src/main.c:273:6:platform_get_control	24	static
+../Src/main.c:333:6:snake_move	32	static
+../Src/main.c:438:6:snake_haseaten	416	static
+../Src/main.c:472:10:RandomNumberGenerate	8	static
+../Src/main.c:483:6:DeviceStateMachine	16	static

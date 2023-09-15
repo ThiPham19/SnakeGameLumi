@@ -1,0 +1,8 @@
+stm32f401re_rng.c:92:6:RNG_DeInit	1
+stm32f401re_rng.c:116:6:RNG_Cmd	2
+stm32f401re_rng.c:178:10:RNG_GetRandomNumber	1
+stm32f401re_rng.c:269:6:RNG_ITConfig	2
+stm32f401re_rng.c:295:12:RNG_GetFlagStatus	2
+stm32f401re_rng.c:328:6:RNG_ClearFlag	1
+stm32f401re_rng.c:344:10:RNG_GetITStatus	2
+stm32f401re_rng.c:374:6:RNG_ClearITPendingBit	1
